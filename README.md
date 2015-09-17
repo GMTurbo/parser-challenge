@@ -1,9 +1,7 @@
 # Parser Challenge
 Given any string with the following format:
 ```javascript
-var rawString = "buildings{house{kitchen{oven,fridge},garage{car,bike}
-,bathroom{sink,tub}},office{meetingroom{telephone,projector},kitchen
-{coffeemaker,watercooler},parkinggarage{cars{gears,handlebars},bikes}}}";
+var rawString = "buildings{house{kitchen{oven,fridge},garage{car,bike},bathroom{sink,tub}},office{meetingroom{telephone,projector},kitchen{coffeemaker,watercooler},parkinggarage{cars{gears,handlebars},bikes}}}";
 ```
 
 ##Observations:
